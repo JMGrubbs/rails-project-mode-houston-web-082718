@@ -35,3 +35,8 @@ Some example project ideas from previous classes:
 - issue cleanup and final demos. 
 
 
+
+fuck all
+
+
+
